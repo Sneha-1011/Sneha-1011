@@ -37,10 +37,5 @@ I am open to ideas and collaborations. If you have any exciting projects in mind
 - 📧 **Email**: snehamuraleedharan3@gmail.com
 - 🔗 **LinkedIn**: [Sneha Muralidharan](https://www.linkedin.com/in/sneha-muralidharan-575109227/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name)
-
 Thank you for visiting my GitHub profile. Let's connect and make the coding world a better place together! 🌟
 
-[![GitHub Profile](https://img.shields.io/badge/Connect%20with%20Me-GitHub%20Profile-blue)](https://github.com/your-username)
